@@ -3,19 +3,19 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Malware Analysis (Flare VM, RemNux)</b>
-  - [Zeus Banking Trojan](https://github.com/dspicer22test1
-  - [Agent Tesla](https://github.com/dspicer22test1
-  - [CoinMiner](https://github.com/dspicer22test1
-  - [Arechclient2](https://github.com/dspicer22test1
-  - [DarkGate](https://github.com/dspicer22test1
+  - Zeus Banking Trojan (https://github.com/dspicer22test1
+  - Agent Tesla (https://github.com/dspicer22test1
+  - CoinMiner (https://github.com/dspicer22test1
+  - Arechclient2 (https://github.com/dspicer22test1
+  - DarkGate (https://github.com/dspicer22test1
 
 - <b>Vulnerability Management (PowerBI Desktop)</b>
-  - [Tenable Security Center](https://github.com/dspicer22test1
-  - [Software Version Control](https://github.com/dspicer22test1
+  - Quarantine Management (https://github.com/dspicer22test1
+  - Software Version Control Visualization with PowerBI (https://github.com/dspicer22test1
  
 - <b>Threat Intelligence (Microsoft Azure, Microsoft Sentinel)</b>
-  - [SOC LAB](https://github.com/dspicer22/test1
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - Honeypot Lab (https://github.com/dspicer22/test1
+  
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/dspicer22/test1
