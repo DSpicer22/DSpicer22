@@ -14,7 +14,7 @@
   - Software Version Control Visualization with PowerBI (https://github.com/dspicer22test1
  
 - <b>Threat Intelligence (Microsoft Azure, Microsoft Sentinel)</b>
-  - SOC HoneyNet Lab (https://github.com/DSpicer22/SOCLab)
+  - SOC Honeynet Lab (https://github.com/DSpicer22/SOCLab)
   
 
 - <b>PowerShell</b>
