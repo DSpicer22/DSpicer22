@@ -9,7 +9,7 @@
   - SOC Honeynet Lab (https://github.com/DSpicer22/SOCLab)
 
 - <b>Vulnerability Management (PowerBI Desktop)</b>
-  - Quarantine Management (https://github.com/dspicer22test1
+  - Power BI Vulnerability Report (https://github.com/dspicer22test1)
 
 <h2>📄 Certifications</h2>
 
