@@ -1,13 +1,13 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/DSpicer22"><a href="https://www.linkedin.com/in/danielspicer24/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Malware Analysis (Flare VM, RemNux)</b>
-  -  Lumma Stealer (https://github.com/dspicer22test1
      
 - <b>Threat Intelligence (Microsoft Azure, Microsoft Sentinel)</b>
   - SOC Honeynet Lab (https://github.com/DSpicer22/SOCLab)
-
+    
+- <b>Threat Detection (Microsoft Azure, Microsoft Sentinel)</b>
+  -  Threat Detection Lab (https://github.com/dspicer22test1
+    
 - <b>Vulnerability Management (PowerBI Desktop)</b>
   - Power BI Vulnerability Report (https://github.com/DSpicer22/Vulnerability-Management-Lab)
 
