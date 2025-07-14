@@ -6,7 +6,7 @@
   - SOC Honeynet Lab (https://github.com/DSpicer22/SOCLab)
     
 - <b>Threat Detection (Microsoft Azure, Microsoft Sentinel)</b>
-  -  Threat Detection Lab (https://github.com/dspicer22test1
+  -  Threat Detection Lab (https://github.com/DSpicer22/Threat-Detection-Lab)
     
 - <b>Vulnerability Management (PowerBI Desktop)</b>
   - Power BI Vulnerability Report (https://github.com/DSpicer22/Vulnerability-Management-Lab)
