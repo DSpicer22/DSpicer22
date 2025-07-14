@@ -15,7 +15,7 @@
 
 - [CompTIA SecurityX](https://www.credly.com/badges/9d8844c6-90e8-407c-b904-c729355840df/linked_in_profile)
 - [CompTIA Pentest+](https://www.credly.com/badges/ac6bcf2f-6e6c-48c2-b5c3-7105ed2eb920/linked_in_profile)
-- [CompTIA CYSA+](https://www.credly.com/badges/ef8bccef-c4aa-4b41-ac97-19b190f59715/linked_in_profile)
+- [CompTIA CySA+](https://www.credly.com/badges/ef8bccef-c4aa-4b41-ac97-19b190f59715/linked_in_profile)
 - [CompTIA Security+](https://www.credly.com/badges/c847aed8-b112-440f-ae6b-c8b051f666b0/linked_in_profile)
 - [ITIL 4 ® Foundation](https://www.credly.com/badges/c4bec6e1-8621-4d83-b56a-35d86f730b72/linked_in_profile)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/90003c55-0007-480f-9673-55a4aab267f3/linked_in_profile)
